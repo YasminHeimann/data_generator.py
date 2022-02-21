@@ -1,0 +1,5 @@
+ArabianNights 1 9 9 5 1 10 5 6 6 8
+AAmericaninParisn 4 7 9 7 8 4 2 6 10 8
+Shadows 9 2 1 7 5 10 3 2 3 3
+Fargo 3 3 8 6 5 10 7 4 6 4
+WerckmeisterHarmonies 4 5 10 10 4 7 9 1 6 2

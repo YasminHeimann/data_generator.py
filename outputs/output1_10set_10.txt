@@ -1,0 +1,10 @@
+TheLongGoodbye 4 9 9 8 2 6 6 9 1 7
+CatPeople 8 10 8 6 4 8 5 5 5 2
+TheIncredibleShrinkingMan 5 2 10 2 4 6 8 7 1 6
+CarnivalofSouls 10 3 1 10 1 10 7 5 10 9
+TheRedShoes 4 3 9 9 10 1 6 10 10 5
+TheKiller 3 9 8 1 8 10 8 6 4 10
+TheAdventuresofRobinHood 2 8 2 4 8 5 4 8 1 5
+AsIWasMovingAheadOccasionallyISawBriefGlimpsesofBeauty 5 6 5 4 4 6 8 8 1 3
+ManoftheWest 7 2 1 3 8 6 6 10 2 7
+SweetSmellofSuccess 8 8 4 5 3 1 10 10 8 7
